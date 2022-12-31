@@ -51,5 +51,10 @@ Fig #1
 
 ### Drawbacks
 
+There are several drawbacks. The filter search is case sensitive and date format specific. If the date is entered in the incorrect format or city, state, country, or shape is entered with any capital letter the table data appears blank. In addition, the user must click the enter key oy click out of the search box for the data to be filtered and displayed. 
+
 ### Recommendations for further development
+
+Although, most users will have the ability to figure out how to get the data to filter, it could be coded to filter on the fly when each criteria box has been filled. In addition, most webpages ignore case sensitivity which webpage does not the ability to do. It would be beneficial when entering criteria if it was not case sensitive. 
+
 
