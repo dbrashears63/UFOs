@@ -25,7 +25,7 @@ The purpose of the project is to use JavaScript and HTML to display UFO sighting
 
 Deliverable 1: Filter UFO sightings on multiple criteria 
 
-![ufo_screenshot]( https://github.com/dbrashears63/UFOs/ufo_screenshot.png)
+![UFO_screenshot](https://user-images.githubusercontent.com/113568268/210155921-9b9de6cf-337e-4474-99c9-92412825431b.png)
 
 Deliverable 2: A written analysis report on the UFO analysis
 
