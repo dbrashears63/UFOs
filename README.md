@@ -24,16 +24,23 @@ The purpose of the project is to use JavaScript and HTML to display UFO sighting
 * Create a table that may be filtered by multiple criteria
 
 
-## Project Deliverables
 
-Deliverable 1: Filter UFO sightings on multiple criteria 
+## Results
+
+When users view the webpage, they can filter the UFO data by various criteria. This includes the date the UFO sighting occurred, the city, state, country it occurred in and a shape. The user would input the desired information in any field and then click enter and the table automatically updates to display the filtered data. 
+page and the data is filtered on that information. 
+
+For example:
+Date: leave defalut data
+City: willow
+State: co
+Country: leave default data
+Shape: leave default data
+
+Fig #1
 
 ![UFO_screenshot](https://user-images.githubusercontent.com/113568268/210155921-9b9de6cf-337e-4474-99c9-92412825431b.png)
 
-Deliverable 2: A written analysis report on the UFO analysis
-
-
-## Results
 
 ## Summary
 
