@@ -6,18 +6,18 @@ The purpose of the project is to use JavaScript and HTML to display UFO sighting
 ## Coding Resources and Goals 
 ### Resources: 
 
-	UFO starter code files
-	Java Script
-	HTML
-	CSS
-	Bootstrap
+* UFO starter code files
+* Java Script
+* HTML
+* CSS
+* Bootstrap
 
 ### Goals: 
 
-	Use HTML to build the webpage, CSS to style the page, and JavaScript to make the page interactive
-	Use JavaScript to add interactive behaviors for the table
-	Convert the data.js file which houses an array of UFO data into a usable table
-	Create a table that may be filtered by multiple criteria
+* Use HTML to build the webpage, CSS to style the page, and JavaScript to make the page interactive
+* Use JavaScript to add interactive behaviors for the table
+* Convert the data.js file which houses an array of UFO data into a usable table
+* Create a table that may be filtered by multiple criteria
 
 ## Project Deliverables
 
