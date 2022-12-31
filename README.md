@@ -1,4 +1,7 @@
-# UFO’s The Truth Is Out There
+#                                                       UFO’s The Truth Is Out There
+
+![images](https://user-images.githubusercontent.com/113568268/210156090-b4591731-d53d-4f8d-a242-f7e91fdd9b25.jpg)
+
 
 ## Project Overview
 The purpose of the project is to use JavaScript and HTML to display UFO sighting data as a table and allow users to filter through this data using multiple criteria. A table was built using data stored in a JavaScript array. Filters were created so users could input data to display desired data. 
