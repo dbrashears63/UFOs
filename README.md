@@ -31,6 +31,7 @@ When users view the webpage, they can filter the UFO data by various criteria. T
 page and the data is filtered on that information. 
 
 For example:
+
 Date: leave defalut data
 
 City: willow
