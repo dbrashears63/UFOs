@@ -3,6 +3,7 @@
 ## Project Overview
 The purpose of the project is to use JavaScript and HTML to display UFO sighting data as a table and allow users to filter through this data using multiple criteria. A table was built using data stored in a JavaScript array. Filters were created so users could input data to display desired data. 
 
+
 ## Coding Resources and Goals 
 ### Resources: 
 
@@ -19,6 +20,7 @@ The purpose of the project is to use JavaScript and HTML to display UFO sighting
 * Convert the data.js file which houses an array of UFO data into a usable table
 * Create a table that may be filtered by multiple criteria
 
+
 ## Project Deliverables
 
 Deliverable 1: Filter UFO sightings on multiple criteria 
@@ -26,6 +28,7 @@ Deliverable 1: Filter UFO sightings on multiple criteria
 src="https://github.com/dbrashears63/UFOs/static/images/ufo_screenshot.png">
 
 Deliverable 2: A written analysis report on the UFO analysis
+
 
 ## Results
 
