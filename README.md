@@ -32,14 +32,18 @@ page and the data is filtered on that information.
 
 For example:
 Date: leave defalut data
+
 City: willow
-State: co
+
+State: ak
+
 Country: leave default data
+
 Shape: leave default data
 
 Fig #1
 
-![UFO_screenshot](https://user-images.githubusercontent.com/113568268/210155921-9b9de6cf-337e-4474-99c9-92412825431b.png)
+![UFO_screenshot](https://user-images.githubusercontent.com/113568268/210157097-259be46c-499d-404b-8cea-afb843e7e1b5.png)
 
 
 ## Summary
